@@ -1,0 +1,31 @@
+.content-size{
+    font-size: 15px;
+}
+.name{
+    font-size: 70px;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+    margin-left: 10%;
+}
+.sub-heading{
+    font-size: 30px;
+    padding-left:10%;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+}
+.content-sub-heading{
+    font-size: 30px;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+}
+.heading-table{
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+}
+.content-table{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: "Courier New", Courier, monospace;
+}
